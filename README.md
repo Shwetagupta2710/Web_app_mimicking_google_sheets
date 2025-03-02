@@ -2,13 +2,13 @@
 
 Welcome to a web app that brings the power of Google Sheets directly to your browser! This project replicates the user interface and core functionalities of Google Sheets using **HTML**, **CSS**, and **JavaScript**. Whether you're working with data, performing calculations, or just experimenting with spreadsheet-like features, this app is your go-to solution.
 
-### 🔗 **Live Demo**
+### 🔗 **Live Demo**  
 
 Explore the live version of the app: [Web App Mimicking Google Sheets](https://shwetagupta2710.github.io/Web_app_mimicking_google_sheets/)
 
 ---
 
-## ✨ Features
+## ✨Features
 
 ### 1. **Interactive Spreadsheet Interface** 🧑‍💻
 
